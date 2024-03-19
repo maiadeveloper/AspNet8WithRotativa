@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAspNet8Rotativa.props" />
+</Project>
